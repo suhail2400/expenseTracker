@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "269370282837",
+    "project_id": "expenseanalyser-d4737",
+    "storage_bucket": "expenseanalyser-d4737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269370282837:android:a9f18fc2aa15bcbb7c95dc",
+        "android_client_info": {
+          "package_name": "com.example.kash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269370282837-oc3v9kqktgb56urfg9f515ig7rn5928b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1wgtl1MwJPRbkKvLodM8-6wytr5dkm8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269370282837-oc3v9kqktgb56urfg9f515ig7rn5928b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269370282837:android:228e04f729939e1c7c95dc",
+        "android_client_info": {
+          "package_name": "com.expenseAnalyser.kash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269370282837-oc3v9kqktgb56urfg9f515ig7rn5928b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1wgtl1MwJPRbkKvLodM8-6wytr5dkm8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269370282837-oc3v9kqktgb56urfg9f515ig7rn5928b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
